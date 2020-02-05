@@ -1,0 +1,56 @@
+.hg {
+    text-align: center;
+    color: black;
+    font-size: 80px;
+    padding: 50px;
+    margin: 10px;
+    
+}
+
+.gk {
+    text-align: center;
+    color: black;
+    font-size: 40px;
+    padding: 5px;
+    margin: 0px;
+}
+
+.kk {
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    padding: 1px; 
+    margin: 40px;
+}
+
+.mm {
+    text-align: center;
+    color: snow;
+}
+
+.rr {
+    text-align: center;
+    color: lightgrey;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    color: white;
+}
+
+.fa-twitter {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+}
